@@ -1,0 +1,14 @@
+C:\Users\M-PC\source\repos\VIAR\VIAR\bin\Release\VIAR.exe.config
+C:\Users\M-PC\source\repos\VIAR\VIAR\bin\Release\VIAR.exe
+C:\Users\M-PC\source\repos\VIAR\VIAR\bin\Release\VIAR.pdb
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\MainWindow.g.cs
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\App.g.cs
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR_MarkupCompile.cache
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR_MarkupCompile.lref
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\MainWindow.baml
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR.g.resources
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR.Properties.Resources.resources
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR.csproj.GenerateResource.cache
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR.csproj.CoreCompileInputs.cache
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR.exe
+C:\Users\M-PC\source\repos\VIAR\VIAR\obj\Release\VIAR.pdb
