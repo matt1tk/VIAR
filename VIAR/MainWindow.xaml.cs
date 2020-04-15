@@ -17,7 +17,6 @@ namespace VIAR
         {
             base.OnMouseLeftButtonDown(e);
             this.DragMove();
-            //allows for moving window
         }
         private void UpdateStatus()
         {
@@ -30,23 +29,23 @@ namespace VIAR
                 status.Text = "Status: Vanguard is disabled!";
             }
         }
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)//enable vanguard
         {
             File.Move(@"C:\Program Files\Riot Vanguard\vgk1.sys", @"C:\Program Files\Riot Vanguard\vgk.sys");
             UpdateStatus();
         }
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void Button_Click_1(object sender, RoutedEventArgs e)//disable vanguard
         {
             File.Move(@"C:\Program Files\Riot Vanguard\vgk.sys", @"C:\Program Files\Riot Vanguard\vgk1.sys");
             UpdateStatus();
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void Button_Click_2(object sender, RoutedEventArgs e)//close
         {
             Environment.Exit(0);
         }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
+        private void Button_Click_3(object sender, RoutedEventArgs e)//restart
         {
             Process.Start("shutdown.exe", "-r -t 0");
         }
