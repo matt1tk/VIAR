@@ -7,4 +7,4 @@ Download the initial release (https://github.com/matt1tk/VIAR/releases/tag/v1.0)
 
 Want to know why Vanguard is a rootkit? https://www.youtube.com/watch?v=_dOCtaBObg4
 
-This simply renames the vgk.sys so the system does not run the anti cheat at startup. Enjoy!
+This simply renames the vgk.sys so the system does not run the anti cheat at startup. If you want to play valorant, you must enable it and restart. Enjoy!
