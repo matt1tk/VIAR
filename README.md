@@ -10,6 +10,6 @@ Want to know why Vanguard is a rootkit? https://www.youtube.com/watch?v=_dOCtaBO
 This simply renames the vgk.sys so the system does not run the anti cheat at startup. If you want to play valorant, you must enable it and restart. Enjoy!
 
 
-![Disabled](https://prnt.sc/s43gl6)
+![Disabled](https://imgur.com/eUmnayy)
 
-![Enabled](https://prnt.sc/s43ix9)
+![Enabled](https://imgur.com/y3IAE0L)
