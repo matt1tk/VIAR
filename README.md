@@ -12,4 +12,4 @@ This simply renames the vgk.sys so the system does not run the anti cheat at sta
 
 ![Disabled](download.png)
 
-![Enabled](download (1).png)
+![Enabled](enabled.png)
